@@ -4,7 +4,7 @@ I live in Korea🇰🇷 and work as an Backend Developer👨‍💻.
 <br><br>
 I'm fond of sports🔥 and especially like playing futsal⚽ these days.
 <br><br>
-Also you can find me in [👉 Blog](https://hwangseonbi.github.io/), [👉 Notion](https://www.notion.so/hwangseonbi/hwangseonbi-0f1c0b3114324dc4a6934449fc745985).
+Also you can find me in [👉 Blog](https://blog.labbehind.com/).
 <br><br>
 
 <!--
