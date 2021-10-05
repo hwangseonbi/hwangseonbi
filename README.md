@@ -1,8 +1,8 @@
-Hi, I'm Taehoon.  [👉 About Me](https://www.notion.so/hwangseonbi/3f9d1fcf7f384b4e8145258fcef32a94)
+Hi, I'm Taehoon.  [👉 About Me](https://labbehind.notion.site/3f9d1fcf7f384b4e8145258fcef32a94)
 <br><br>
 I live in Korea🇰🇷 and work as an Backend Developer👨‍💻.
 <br><br>
-I'm fond of sports🔥 and especially like playing futsal⚽ these days.
+I'm interested in cloud service espcially Kubernetes native application.
 <br><br>
 Also you can find me in [👉 Blog](https://blog.labbehind.com/).
 <br><br>
