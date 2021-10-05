@@ -2,7 +2,7 @@ Hi, I'm Taehoon.  [👉 About Me](https://labbehind.notion.site/3f9d1fcf7f384b4e
 <br><br>
 I live in Korea🇰🇷 and work as an Backend Developer👨‍💻.
 <br><br>
-I'm interested in cloud service especially related with [Kubernetes](https://kubernetes.io/) 🍽️.
+I'm interested in cloud service🌩️ especially related with [Kubernetes](https://kubernetes.io/).
 <br><br>
 Also you can find me in [👉 Blog](https://blog.labbehind.com/).
 <br><br>
